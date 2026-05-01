@@ -4,7 +4,7 @@
  * Author: Macc Liu <maccliu@hotmail.com>
  * Version: 1.0.1
  * Date: 2023-08-01
- * GitHub: https://github.com/maccliu/zoppax-clickable-image-lightbox
+ * GitHub: https://github.com/zoppax/zoppax-clickable-image-lightbox
  * License: MIT
  *
  * Purpose:
